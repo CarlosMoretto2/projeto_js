@@ -11,7 +11,7 @@ prod1['Desconto'] = 0.40 //Evitar atributos com espaço
 console.log(prod1)
 
 const prod2 = {
-    nome: 'Camisa',
+    nome: 'Camisa',  
     preco: 19.90,
 
 }
